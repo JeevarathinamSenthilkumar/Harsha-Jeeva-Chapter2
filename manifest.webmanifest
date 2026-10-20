@@ -1,0 +1,16 @@
+{
+  "name": "Harsha ❤️ Jeeva — Chapter Two",
+  "short_name": "Harsha ❤️ Jeeva",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f4",
+  "theme_color": "#102f37",
+  "icons": [
+    {
+      "src": "assets/harsha-jeeva-logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
